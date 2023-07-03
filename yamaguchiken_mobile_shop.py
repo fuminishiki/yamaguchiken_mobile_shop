@@ -72,9 +72,6 @@ m
 folium.Marker(location=[34.0426752,131.8155347],popup='ソフトバンク+ワイモバイル ゆめタウン徳山店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.008037,131.3535884],popup='ドコモ あじす店　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
 folium.Marker(location=[34.0482878,131.5897007],popup='ドコモ イオンタウン防府店　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
